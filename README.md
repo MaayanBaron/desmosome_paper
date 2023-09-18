@@ -5,3 +5,4 @@ Notebooks available:
 1. desmosome_freq_across_cancers_TCGA - notebook containing analysis to plot the frequency of desmosome genes across cancer types in the TCGA cohort. This script requires a folder with maf files for each cohort and mutsigCV outputs (provided in a seprate folder - MutSigCV_outputs/)
 2. DSPsiRNA_analysis - notebook containing analysis and plots related to the functional work with DSP siRNA
 3. ST_analysis - notebook containing analysis and plots related to the spatial transcriptomics work
+4. dndscv_analysis - notebook ontaining analysis to plot the dn/ds ratio results from outputs provided in a seprate folder (dnds_data)
